@@ -15,10 +15,21 @@ The only thing that wasn't easy to overcome for me was installing virtual linux 
 
 ## **Task 2**
 1.What is Version Control  
-Despite a lot of similar material from Task 0 this course was very informative and constructive. It made my basic knowledge of Git much stronger through repeating fundamental consepts. Anyway, there were some new information and Git commands, such as what hidden .git file contains, power of git log with tons of flags(-p --stat --oneline ...), usage of .gitignore file, git tag to add labels to commits and the power of undoing things with reset, revert and git commit --amend.
+Despite a lot of similar material from Task 0 this course was very informative and constructive. It made my basic knowledge of Git much stronger through repeating fundamental concepts. Anyway, there were some new information and Git commands, such as what hidden .git file contains, power of git log with tons of flags(-p --stat --oneline ...), usage of .gitignore file, git tag to add labels to commits and the power of undoing things with reset, revert and git commit --amend.
 - [What is Version Control 1 - screenshot](/Task_2/What_is_Version_Control_1.png)
 - [What is Version Control 2 - screenshot](/Task_2/What_is_Version_Control_2.png)
 
 2.GitHub & Collaboration  
 Exactly as with the previous course this course just reminded me how to use GitHub, but it also gave me some knew skills in reviewing existing works and commits, creating and reading issues and showed me the rebase power.
 - [GitHub & Collaboration - screenshot](/Task_2/GitHub_&_Collaboration.png)
+
+## **Task 3**
+***Intro to HTML & CSS***
+I've been working with HTML and CSS for a long time, so nothing was surprising or new for me. It just reminded me some fundamental things, but repeating is a good idea, especially with the basic stuff.  
+- [Intro to HTML & CSS - screenshot](/Task_3/Intro_to_HTML_&_CSS.png)
+
+## **Task 4**
+***Responsive Web Design Fundamentals***
+It is absolutely another story. Although I have some experience using responsive web design techniques, this course surprised me with tons of new information of how to create great responsive websites. It gave me new strong understanding of basic concepts. Thanks, Udacity!)  
+- [Responsive Web Design Fundamentals - screenshot](/Task_4/Responsive_Web_Design_Fundamentals.png)
+
