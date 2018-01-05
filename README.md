@@ -34,3 +34,9 @@ I've been working with HTML and CSS for a long time, so nothing was surprising o
 It is absolutely another story. Although I have some experience using responsive web design techniques, this course surprised me with tons of new information of how to create great responsive websites. It gave me new strong understanding of basic concepts. Thanks, Udacity!)  
 - [Responsive Web Design Fundamentals - screenshot](/Task_4/Responsive_Web_Design_Fundamentals.png)
 
+## **Task 5**
+***Intro to JS***  
+This course was the very first intro to JS for me, but surprisingly enough I didn't learn anything new:)  
+As it turnes out, my previous basic knowledge of C++, C# and OOP with C# really help me to learn the basics of another language. Everything is similar. Just change int, double, string, char, float, bool, long ... to VAR and that's it.  
+Anyway, some JS tricks such as hoisting, inline function expressions ... surprised me.  
+- [Intro to JS - screenshot](/Task_5/Intro_to_JS.png)
