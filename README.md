@@ -39,4 +39,5 @@ It is absolutely another story. Although I have some experience using responsive
 This course was the very first intro to JS for me, but surprisingly enough I didn't learn anything new:)  
 As it turnes out, my previous basic knowledge of C++, C# and OOP with C# really help me to learn the basics of another language. Everything is similar. Just change int, double, string, char, float, bool, long ... to VAR and that's it.  
 Anyway, some JS tricks such as hoisting, inline function expressions ... surprised me.  
-- [Intro to JS - screenshot](/Task_5/Intro_to_JS.png)
+- [Intro to JS 1 - screenshot](/Task_5/Intro_to_JS_1.png)  
+- [Intro to JS 2 - screenshot](/Task_5/Intro_to_JS_2.png)
